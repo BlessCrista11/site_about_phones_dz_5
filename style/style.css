@@ -1,0 +1,47 @@
+.wrapper {
+	width: 1200px;
+	background: yellow;
+	margin: 0 auto;
+		
+
+}
+.number{
+	font-size: 30px;
+	font-weight: 800;
+	color black;
+}
+
+.display_table_cell
+{	width: 400px;
+	display: table-cell;
+}
+/*
+div {
+	background: pink;
+	outline: solid green 2px;	
+}
+div div {margin: 15px 0}
+
+*/
+
+.block{
+
+	font-size: 0
+}
+
+.display_inline_block{
+	width: 400px;
+	display: inline-block;
+	font-size: 20px;
+}
+div div div {outline: solid green 2px;
+	background: pink;}
+
+	.float{
+			
+			width: 400px;
+			float: left;
+			outline: 2px solid black;
+		}
+		
+.clear{	clear: both}
